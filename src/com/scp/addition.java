@@ -11,5 +11,11 @@ public class addition {
 		
 
 	}
+	
+	
+	public void m1()
+	{
+		System.out.println("https://github.com/NatashaRanaware/Hibernatedemo.git");
+	}
 
 }
