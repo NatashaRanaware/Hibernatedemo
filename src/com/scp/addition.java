@@ -12,6 +12,10 @@ public class addition {
 
 	}
 	
+	public void m2()
+	{
+		System.out.println("by gauri");
+	}
 	
 	public void m1()
 	{
